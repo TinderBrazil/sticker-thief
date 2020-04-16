@@ -83,15 +83,14 @@ class CustomBot(Bot):
 
 class StickersBot(Updater):
     COMMANDS = OrderedDict({
-        'create': 'create a new stickers pack',
-        'createanimated': 'create a new animated stickers pack',
-        'add': 'add stickers to an existing pack',
-        'remove': 'remove stickers from their pack',
-        'list': 'list your packs',
-        'cleanup': 'remove fom the database packs deleted from @stickers',
-        'forgetme': 'delete yourself from the database',
-        'export': 'export a pack to a zip file',
-        'cancel': 'cancel the current operation'
+        'create': 'crie um novo pacote de adesivos',
+        'createanimated': 'crie um novo pacote de adesivos animados',
+        'add': 'adicionar adesivos a um pacote existente',
+        'remove': 'remova adesivos Do Pack',
+        'list': 'liste seus pacotes',
+        'cleanup': 'remova os pacotes de banco de dados excluídos do @stickers',
+        'export': 'exportar um pacote para um arquivo zip',
+        'cancel': 'cancelar a operação atual'
     })
 
     @staticmethod
