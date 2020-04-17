@@ -117,7 +117,7 @@ class Strings:
 
     ADD_STICKER_PACK_FULL = ("Desculpa, <a href=\"{}\">este pacote</a> está cheio ({} stickers), "
                              "você não pode mais adicionar adesivos a ele. Use /remove para remover alguns adesivos\n"
-                             "Você saiu do modo \"adicionando adesivos".")
+                             "Você saiu do modo \ adicionando adesivos.")
 
     ADD_STICKER_SIZE_ERROR = ("Parece que um erro aconteceu ao redimensionar o adesivo. "
                               "e agora suas dimensões são {}x{} px. I não pode adicionar este adesivo ao pacote devido à lógica de redimensionamento errada.\n"
