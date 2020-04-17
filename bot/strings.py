@@ -142,7 +142,7 @@ class Strings:
     ADD_STICKER_EXPECTING_ANIMATED= ("Uh-oh. I was waiting for an animated sticker, not a normal one. "
                                      "Please send me an animated sticker, or /cancel")
 
-    REMOVE_STICKER_SELECT_STICKER = "Send me the sticker you want to remove from its pack, or /cancel"
+    REMOVE_STICKER_SELECT_STICKER = "Este adesivo não pertence a nenhum pacote. Por favor, envie-me um stciker de um pacote, ou"
 
     REMOVE_STICKER_SUCCESS = ("Sticker removed from <a href=\"{}\">its pack</a>.\n"
                               "Send me another sticker to remove, or /done when you're done")
