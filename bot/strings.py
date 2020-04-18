@@ -6,8 +6,8 @@ class Strings:
                      "/create para criar um novo pacote\n"
                      "/createanimated para criar um novo pacote animado\n"
                      "/add para adicionar adesivos a um pacote existente\n"
-                     "/help para mais comandos"
-                     " 🇧🇷 : Canal @ObikyuOficial"
+                     "/help para mais comandos \n"
+                     " 🇧🇷 : Canal @ObikyuOficial \n"
                      "👨‍💻 : Develop : @Obikyu")
 
     HELP_MESSAGE = ("<b>Lista completa de comandos</b>:\n"
