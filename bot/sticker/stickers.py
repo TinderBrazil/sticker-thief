@@ -49,7 +49,7 @@ class StickerFile:
             if caption:
                 self._emoji = utils.get_emojis(caption)
             if not self._emoji:
-                self._emoji = '💈'
+                self._emoji = '🎭'
 
     @property
     def emoji(self):
