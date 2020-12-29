@@ -1,10 +1,10 @@
 [telegram]
-token = "1243339189:AAGFVwjqLA2xyL12i8GOI_nulmBwfYL1E8c"
+token = "1495210700:AAGs57yTIw3Ot0nTWS7XI4BMRdnrSt-1ARQ"
 workers = 1
 admins = [957539786]
 admins_only = false
 maintenance_mode = false
-persistent_temp_data = true
+persistent_temp_data = false
 
 [sqlite]
 filename = "stickersbot.sqlite"
