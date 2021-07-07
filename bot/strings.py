@@ -8,7 +8,7 @@ class Strings:
                      "/add para adicionar adesivos a um pacote existente\n"
                      "/help para mais comandos \n"
                      " 🇧🇷 : Canal @TiuMorty \n"
-                     "👨‍💻 : Develop : @TioMorty)
+                     "👨‍💻 : Develop : @TioMorty")
 
     HELP_MESSAGE = ("<b>Lista completa de comandos</b>:\n"
                     "- /create: criar um novo pacote\n"
