@@ -7,8 +7,8 @@ class Strings:
                      "/createanimated para criar um novo pacote animado\n"
                      "/add para adicionar adesivos a um pacote existente\n"
                      "/help para mais comandos \n"
-                     " 🇧🇷 : Canal @ObikyuOficial \n"
-                     "👨‍💻 : Develop : @Obikyu")
+                     " 🇧🇷 : Canal @TiuMorty \n"
+                     "👨‍💻 : Develop : @TioMorty)
 
     HELP_MESSAGE = ("<b>Lista completa de comandos</b>:\n"
                     "- /create: criar um novo pacote\n"
@@ -33,7 +33,7 @@ class Strings:
                     "mas algo forçado pelo Telegram\n"
                     "\n"
                     "<b>Maneira correta de construir seu próprio pacote personalizado</b>\n"
-                    "Usar @Obikyu. Não rouba adesivos como eu. Está queimando rápido também. Realmente sugerido")
+                    "Usar @TioMorty. Não rouba adesivos como eu. Está queimando rápido também. Realmente sugerido")
 
     PACK_CREATION_STATIC_WAITING_TITLE = ("Tudo bem, um novo pacote de adesivos! Por favor, me envie o título do pacote. "
                                           "(não deve exceder 64 caracteres).\n"
